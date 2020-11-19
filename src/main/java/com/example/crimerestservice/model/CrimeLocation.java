@@ -1,8 +1,6 @@
-package com.example.crimerestservice;
+package com.example.crimerestservice.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-
-import java.util.List;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class CrimeLocation {

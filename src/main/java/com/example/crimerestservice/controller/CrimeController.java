@@ -1,5 +1,8 @@
-package com.example.crimerestservice;
+package com.example.crimerestservice.controller;
 
+import com.example.crimerestservice.model.CrimeCategories;
+import com.example.crimerestservice.model.CrimeLocation;
+import com.example.crimerestservice.model.Postcode;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
